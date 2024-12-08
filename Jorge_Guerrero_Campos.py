@@ -104,7 +104,7 @@ def add_placeholder(event, placeholder):
 # Configuración de la ventana principal
 ventana = tk.Tk()
 ventana.title("Calculadora de IMC")
-ventana.geometry("1000x800")
+ventana.geometry("900x600")
 ventana.configure(bg="lightblue")
 
 # Frame para los campos de entrada
